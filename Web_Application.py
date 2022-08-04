@@ -13,7 +13,7 @@ st.write("""
 """)
 
 #Open and display an image
-GaN_MMIC_image = Image.open('MMIC_Packaging_2.PNG')
+GaN_MMIC_image = Image.open('MMIC_Packaging.PNG')
 st.image(GaN_MMIC_image, use_column_width=True, clamp=True)
 
 #Get the feature input from the user
