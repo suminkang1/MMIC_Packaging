@@ -9,7 +9,7 @@ Learning_Model = keras.models.load_model('ANN_128_128_128_128_128')
 
 #Create a title
 st.write("""
-## Thermo-mechanical analysis of MMIC packaging
+## Thermomechanical Analysis of MMIC Packaging
 """)
 
 #Open and display an image
